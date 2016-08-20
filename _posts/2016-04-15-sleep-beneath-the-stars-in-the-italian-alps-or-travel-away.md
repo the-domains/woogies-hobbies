@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T22:22:30.554Z'
+datePublished: '2016-08-19T22:22:30.555Z'
 sourcePath: >-
   _posts/2016-04-15-sleep-beneath-the-stars-in-the-italian-alps-or-travel-away.md
 inFeed: true
@@ -21,7 +21,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-19T22:22:29.734Z'
+dateModified: '2016-08-19T22:22:29.845Z'
 title: Sleep Beneath the Stars in the Italian Alps | Travel Away
 app_links: []
 publisher:
