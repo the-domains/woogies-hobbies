@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T22:22:30.551Z'
+datePublished: '2016-08-19T22:22:30.554Z'
 sourcePath: _posts/2016-04-28-travel-love.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/71319358'
@@ -10,7 +10,7 @@ author:
   - name: Christian Grewe
     url: 'http://vimeo.com/christiangrewe'
     avatar: {}
-dateModified: '2016-08-19T22:22:29.749Z'
+dateModified: '2016-08-19T22:22:29.866Z'
 title: TRAVEL LOVE
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/71319358'
